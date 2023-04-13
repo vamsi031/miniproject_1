@@ -67,6 +67,6 @@ public class compressorAndDecompressor extends JFrame implements ActionListener 
 
 
     public static void main(String[] args) {
-//        compressorAndDecompressor abc =new compressorAndDecompressor();
+       compressorAndDecompressor abc =new compressorAndDecompressor();
     }
 }
